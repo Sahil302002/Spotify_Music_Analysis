@@ -2,6 +2,9 @@
 
 **T**he Spotify SQL Analysis project involved analyzing a comprehensive dataset containing music metadata, audio features, and streaming information to derive meaningful insights about tracks and their performance on various platforms. By leveraging SQL, this project focused on uncovering patterns in musical characteristics, artist popularity, and audience engagement.
 
+![SPOTIFY ](https://github.com/user-attachments/assets/a7ca2562-0de8-4552-9a0c-47637ec0ff60)
+
+
 ### Comprehensive Spotify Music Dataset: Metadata, Audio Features, and Streaming Insights
 
 This Spotify dataset is a comprehensive collection of music-related data containing **20,595 rows** and **24 columns**. It provides the following key information:
