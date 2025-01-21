@@ -7,7 +7,7 @@
 ![SPOTIFY ](https://github.com/user-attachments/assets/a7ca2562-0de8-4552-9a0c-47637ec0ff60)
 
 
-### Comprehensive Spotify Music Dataset: Metadata, Audio Features, and Streaming Insights
+## Comprehensive Spotify Music Dataset: Metadata, Audio Features, and Streaming Insights
 
 This Spotify dataset is a comprehensive collection of music-related data containing **20,595 rows** and **24 columns**. It provides the following key information:
 
@@ -18,11 +18,11 @@ This Spotify dataset is a comprehensive collection of music-related data contain
 3. **Video and Streaming Information**:
     - Data on **YouTube views, likes, comments**, licensing status, and **streaming counts**, useful for evaluating the popularity and engagement of tracks across platforms
 
-Dataset Link
+**Dataset Link** : <a href = "SPOTIFY ADVANCE SQL ANALYSIS.pdf">Spotify Cleaned Dataset</a> 
 
 ---
 
-## **Objective**
+## **OBJECTIVE**
 
 The primary objective of this project was to:
 
