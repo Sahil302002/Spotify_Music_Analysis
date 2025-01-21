@@ -60,7 +60,7 @@ The primary objective of this project was to:
 
 Spotify Music’s SQL Analysis PDF Link
 
-Spotify Music’s SQL Analysis Script Link
+<a href = "Spotify Query.sql"> Spotify Music’s SQL Analysis Script Link</a>
 
 ## **Tasks Performed**
 
