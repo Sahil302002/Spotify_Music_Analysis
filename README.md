@@ -1,4 +1,6 @@
-# **Project Overview**
+# **SPOTIFY SQL ANALYSIS PROJECT**
+
+## **Project Overview**
 
 **T**he Spotify SQL Analysis project involved analyzing a comprehensive dataset containing music metadata, audio features, and streaming information to derive meaningful insights about tracks and their performance on various platforms. By leveraging SQL, this project focused on uncovering patterns in musical characteristics, artist popularity, and audience engagement.
 
