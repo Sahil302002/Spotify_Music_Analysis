@@ -18,7 +18,7 @@ This Spotify dataset is a comprehensive collection of music-related data contain
 3. **Video and Streaming Information**:
     - Data on **YouTube views, likes, comments**, licensing status, and **streaming counts**, useful for evaluating the popularity and engagement of tracks across platforms
 
-**Dataset Link** : <a href = "SPOTIFY ADVANCE SQL ANALYSIS.pdf">Spotify Cleaned Dataset</a> 
+**Dataset Link** : <a href = "Spotify_Cleaned_Data.csv">Spotify Cleaned Dataset</a> 
 
 ---
 
