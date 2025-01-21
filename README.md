@@ -58,7 +58,7 @@ The primary objective of this project was to:
 - Find tracks where the energy-to-liveness ratio is greater than 1.2.
 - Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
 
-Spotify Music’s SQL Analysis PDF Link
+<a href= "SPOTIFY ADVANCE SQL ANALYSIS.pdf">Spotify Music’s SQL Analysis PDF Link</a>
 
 <a href = "Spotify Query.sql"> Spotify Music’s SQL Analysis Script Link</a>
 
